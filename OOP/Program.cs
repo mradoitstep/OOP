@@ -10,7 +10,7 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("ahoj");
         }
     }
 }
